@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins&display=swap);
+
+body {
+    font-family: Poppins, serif;
+    background-color: rgb(232, 251, 255);
+}
+
+.nav-link {
+    color: rgb(0, 171, 3);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(69, 69, 69);
+}
+
+.navbar-brand img {
+    max-width: 80px;
+}
+
+.navbar-toggler {
+    background-color:rgb(182, 182, 182);
+}
+
+.sidebar {
+    background-color:rgb(246, 233, 255);
+}
+
+.card-title {
+    font-weight: 600;
+}
